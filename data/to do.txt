@@ -1,0 +1,6 @@
+1- read the text data 
+2- clean the text data [ capiltalization and lower case / remove any urls or special charachters /
+remove pancituation ]
+3- remove stop words 
+4- toknization 
+5- stemming 
