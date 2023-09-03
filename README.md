@@ -9,4 +9,4 @@ Project 3 for "AI &amp; ML" Course (Natural Language Processing)
 remove punctuation] [x]
 3. Remove stop words. [x]
 4. Tokenization. [x]
-5. Stemming.
+5. Stemming. [x]
