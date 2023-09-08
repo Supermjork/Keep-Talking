@@ -13,6 +13,6 @@ remove punctuation] [x]
 
 In the same data set of last assignment do the following:
 
-1. bag of words []
+1. bag of words [x]
 2. word embeddings []
 3. use bert and evaluate the model []
