@@ -10,3 +10,9 @@ remove punctuation] [x]
 3. Remove stop words. [x]
 4. Tokenization. [x]
 5. Stemming. [x]
+
+In the same data set of last assignment do the following:
+
+1. bag of words [x]
+2. word embeddings []
+3. use bert and evaluate the model []
