@@ -14,5 +14,5 @@ remove punctuation] [x]
 In the same data set of last assignment do the following:
 
 1. bag of words [x]
-2. word embeddings []
+2. word embeddings [x] (Genuinely have no idea if it's actually done)
 3. use bert and evaluate the model []
